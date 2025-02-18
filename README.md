@@ -34,10 +34,19 @@ It ensures secure communication by making the message invisible inside an image.
 4. Reveal the **Hidden Message**.
 
 ## 📸 Result
+
+### Original Image
+<em>This is the image before any data is hidden inside it.</em>
+
 <div align="center">
-   <img src="https://github.com/Ashok3201/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY/blob/main/pic.png" alt="Orignal Image" style="width:50%;">
-   
-   <img src="https://github.com/Ashok3201/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY/blob/main/Encrypted_Image.png" alt="Encrypted Image" style="width:50%;">
+    <img src="https://github.com/Ashok3201/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY/blob/main/Image/Orignal_Image.png" alt="Original Image" width="70%" />
+</div>
+
+### Encrypted Image
+<em>Visually, the image looks the same, but it contains the hidden, encrypted message inside.</em>
+
+<div align="center"">
+   <img src="https://github.com/Ashok3201/Secure-Data-Hiding-In-Images-Using-STEGANOGRAPHY/blob/main/Image/Encrypted_Image.png" alt="Encrypted Image" width="70%" />
 </div>
 
 ## 🔧 Technologies Used
